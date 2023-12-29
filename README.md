@@ -1,4 +1,4 @@
-# Hi there 👋, my name is umme salma
+# Hi there 👋, my name is salma taher munni
 #### Mern Stack Developer
 ![Mern Stack Developer](https://github.com/ummesalma152/ummesalma152/blob/main/20231224_153955_0002.png)
 
